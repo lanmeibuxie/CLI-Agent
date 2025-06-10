@@ -1,0 +1,18 @@
+# 可执行文件
+ag
+ag.exe
+
+# 配置文件
+.config.json
+
+# VSCode 配置
+.vscode/
+
+# 编译中间文件
+*.o
+*.obj
+*.dll
+*.lib
+*.so
+*.a
+
