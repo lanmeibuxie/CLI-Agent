@@ -129,6 +129,10 @@ int main(int argc, char *argv[])
             // 获取用户输入
             std::getline(std::cin, input);
 
+#ifdef _WIN32
+            input = gbk_to_utf8(input); // Windows下转换编码
+#endif
+
             // 退出条件
             if (input == "exit")
             {

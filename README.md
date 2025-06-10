@@ -2,6 +2,9 @@
 #### Cli Agent 是一个基于命令行的AI 聊天客户端，支持与 OpenAI/DeepSeek 等兼容 API 的模型进行对话，支持流式输出、代码高亮，markdown渲染
 #### 本项目基于 C++ 实现，适用于 Windows/Linux 平台。相比于python实现,它更轻量,程序本体仅200-300kb.
 
+## Build
+### 百度网盘链接https://pan.baidu.com/s/1IEPn_PLxs3K4H0jwC-bfAQ     提取码:95ym
+
 ## 项目结构
 
 ```
